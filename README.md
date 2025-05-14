@@ -1,2 +1,2 @@
 # ABSA_Datasets
-Summary of Aspect Level Sentiment Analysis Dataset
+Summary of Aspect-based Sentiment Analysis Dataset
